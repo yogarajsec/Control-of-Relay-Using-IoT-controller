@@ -59,9 +59,9 @@ void loop() {
 
 
 ## OUTPUT:
-# ON
+ON
 <img width="1156" height="796" alt="Screenshot 2025-09-11 092741" src="https://github.com/user-attachments/assets/6adfc4b9-c14a-4bab-b737-41e04c14320b" />
-# OFF
+OFF
 <img width="1158" height="811" alt="Screenshot 2025-09-11 092753" src="https://github.com/user-attachments/assets/17d221da-43ce-42f4-9820-77efb23b67fe" />
 
 
