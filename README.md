@@ -1,7 +1,7 @@
 # NAME: YOGARAJ.S
 # REG NO:212223040248
 
-# EXP:02 Control-of-Relay-Using-IoT-controller
+# EXP:02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
